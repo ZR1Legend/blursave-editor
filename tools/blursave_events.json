@@ -1,0 +1,380 @@
+{
+"T1E0": {
+"city": "Barcelona Oval",
+"icon": "oval",
+"kind": "Race",
+"route": "SPA_Barcelona_Oval_2"
+},
+"T1E1": {
+"city": "Amboy",
+"icon": "amboy",
+"kind": "Race",
+"route": "USA_Amboy_1"
+},
+"T1E2": {
+"city": "Brighton",
+"icon": "brighton",
+"kind": "Destruction",
+"route": "UK_Brighton_1"
+},
+"T1E3": {
+"city": "LA Docks",
+"icon": "la_docks",
+"kind": "Race",
+"route": "USA_LA_LongBeachDocks_2"
+},
+"T1E4": {
+"city": "Amboy",
+"icon": "amboy",
+"kind": "Race",
+"route": "USA_Amboy_3"
+},
+"T1E5": {
+"city": "LA River",
+"icon": "la_river",
+"kind": "Destruction",
+"route": "USA_LA_River_3"
+},
+"T1E6": {
+"city": "Brighton",
+"icon": "brighton",
+"kind": "One-on-One",
+"route": "UK_Brighton_2"
+},
+"T2E0": {
+"city": "LA Downtown",
+"icon": "la_downtown",
+"kind": "Checkpoint",
+"route": "USA_LA_Downtown_6"
+},
+"T2E1": {
+"city": "LA River",
+"icon": "la_river",
+"kind": "Race",
+"route": "USA_LA_River_3"
+},
+"T2E2": {
+"city": "Tokyo Shutoko",
+"icon": "japan_shutoko",
+"kind": "Race",
+"route": "JPN_Tokyo_Shutoko_4"
+},
+"T2E3": {
+"city": "SanFran Sausalito",
+"icon": "san_francisco",
+"kind": "Race",
+"route": "USA_SanFran_Sausalito_1"
+},
+"T2E4": {
+"city": "LA Docks",
+"icon": "la_docks",
+"kind": "Checkpoint",
+"route": "USA_LA_LongBeachDocks_2"
+},
+"T2E5": {
+"city": "Barcelona Oval",
+"icon": "oval",
+"kind": "Race",
+"route": "SPA_Barcelona_Oval_1"
+},
+"T2E6": {
+"city": "Barcelona Gracia",
+"icon": "barcelona",
+"kind": "One-on-One",
+"route": "SPA_Barcelona_Gracia_1"
+},
+"T3E0": {
+"city": "LA Downtown",
+"icon": "la_downtown",
+"kind": "Race",
+"route": "USA_LA_Downtown_4"
+},
+"T3E1": {
+"city": "LA Docks",
+"icon": "la_docks",
+"kind": "Destruction",
+"route": "USA_LA_LongBeachDocks_2"
+},
+"T3E2": {
+"city": "Brighton",
+"icon": "brighton",
+"kind": "Race",
+"route": "UK_Brighton_3"
+},
+"T3E3": {
+"city": "Amboy",
+"icon": "amboy",
+"kind": "Checkpoint",
+"route": "USA_Amboy_1"
+},
+"T3E4": {
+"city": "Barcelona Gracia",
+"icon": "barcelona",
+"kind": "Race",
+"route": "SPA_Barcelona_Gracia_1"
+},
+"T3E5": {
+"city": "LA Docks",
+"icon": "la_docks",
+"kind": "Checkpoint",
+"route": "USA_LA_LongBeachDocks_3"
+},
+"T3E6": {
+"city": "LA River",
+"icon": "la_river",
+"kind": "One-on-One",
+"route": "USA_LA_River_6"
+},
+"T4E0": {
+"city": "LA Downtown",
+"icon": "la_downtown",
+"kind": "Destruction",
+"route": "USA_LA_Downtown_6"
+},
+"T4E1": {
+"city": "Barcelona Gracia",
+"icon": "barcelona",
+"kind": "Destruction",
+"route": "SPA_Barcelona_Gracia_1"
+},
+"T4E2": {
+"city": "LA Docks",
+"icon": "la_docks",
+"kind": "Race",
+"route": "USA_LA_LongBeachDocks_3"
+},
+"T4E3": {
+"city": "LA River",
+"icon": "la_river",
+"kind": "Destruction",
+"route": "USA_LA_River_6"
+},
+"T4E4": {
+"city": "Barcelona Gracia",
+"icon": "barcelona",
+"kind": "Race",
+"route": "SPA_Barcelona_Gracia_2"
+},
+"T4E5": {
+"city": "Brighton",
+"icon": "brighton",
+"kind": "Destruction",
+"route": "UK_Brighton_3"
+},
+"T4E6": {
+"city": "SanFran Russian Hill",
+"icon": "russian_hill",
+"kind": "One-on-One",
+"route": "USA_SanFran_RussianHill_1"
+},
+"T5E0": {
+"city": "LA Downtown",
+"icon": "la_downtown",
+"kind": "Race",
+"route": "USA_LA_Downtown_1"
+},
+"T5E1": {
+"city": "Hollywood Hills",
+"icon": "la_observatory",
+"kind": "Destruction",
+"route": "USA_LA_Observatory_1"
+},
+"T5E2": {
+"city": "Brighton",
+"icon": "brighton",
+"kind": "Race",
+"route": "UK_Brighton_1"
+},
+"T5E3": {
+"city": "Hackney",
+"icon": "hackney",
+"kind": "Checkpoint",
+"route": "UK_London_Hackney_1"
+},
+"T5E4": {
+"city": "Tokyo Shutoko",
+"icon": "japan_shutoko",
+"kind": "Destruction",
+"route": "JPN_Tokyo_Shutoko_2"
+},
+"T5E5": {
+"city": "Amboy",
+"icon": "amboy",
+"kind": "Race",
+"route": "USA_Amboy_1"
+},
+"T5E6": {
+"city": "SanFran Sausalito",
+"icon": "san_francisco",
+"kind": "One-on-One",
+"route": "USA_SanFran_Sausalito_2"
+},
+"T6E0": {
+"city": "Hollywood Hills",
+"icon": "la_observatory",
+"kind": "Checkpoint",
+"route": "USA_LA_Observatory_1"
+},
+"T6E1": {
+"city": "Hackney",
+"icon": "hackney",
+"kind": "Race",
+"route": "UK_London_Hackney_2"
+},
+"T6E2": {
+"city": "SanFran Russian Hill",
+"icon": "russian_hill",
+"kind": "Checkpoint",
+"route": "USA_SanFran_RussianHill_1"
+},
+"T6E3": {
+"city": "LA Downtown",
+"icon": "la_downtown",
+"kind": "Race",
+"route": "USA_LA_Downtown_1"
+},
+"T6E4": {
+"city": "Barcelona Gracia",
+"icon": "barcelona",
+"kind": "Checkpoint",
+"route": "SPA_Barcelona_Gracia_5"
+},
+"T6E5": {
+"city": "LA Downtown",
+"icon": "la_downtown",
+"kind": "Race",
+"route": "USA_LA_Downtown_4"
+},
+"T6E6": {
+"city": "NY Dumbo",
+"icon": "dumbo",
+"kind": "One-on-One",
+"route": "USA_NY_Dumbo_2"
+},
+"T7E0": {
+"city": "Tokyo Shutoko",
+"icon": "japan_shutoko",
+"kind": "Race",
+"route": "JPN_Tokyo_Shutoko_4"
+},
+"T7E1": {
+"city": "LA Downtown",
+"icon": "la_downtown",
+"kind": "Destruction",
+"route": "USA_LA_Downtown_4"
+},
+"T7E2": {
+"city": "Hollywood Hills",
+"icon": "la_observatory",
+"kind": "Checkpoint",
+"route": "USA_LA_Observatory_2"
+},
+"T7E3": {
+"city": "Barcelona Oval",
+"icon": "oval",
+"kind": "Race",
+"route": "SPA_Barcelona_Oval_1"
+},
+"T7E4": {
+"city": "Barcelona Gracia",
+"icon": "barcelona",
+"kind": "Destruction",
+"route": "SPA_Barcelona_Gracia_5"
+},
+"T7E5": {
+"city": "NY Dumbo",
+"icon": "dumbo",
+"kind": "Race",
+"route": "USA_NY_Dumbo_2"
+},
+"T7E6": {
+"city": "Mount Haruna",
+"icon": "mount_haruna",
+"kind": "One-on-One",
+"route": "JPN_MHaruna_1"
+},
+"T8E0": {
+"city": "NY Dumbo",
+"icon": "dumbo",
+"kind": "Race",
+"route": "USA_NY_Dumbo_3"
+},
+"T8E1": {
+"city": "Hollywood Hills",
+"icon": "la_observatory",
+"kind": "Destruction",
+"route": "USA_LA_Observatory_2"
+},
+"T8E2": {
+"city": "Tokyo Shutoko",
+"icon": "japan_shutoko",
+"kind": "Race",
+"route": "JPN_Tokyo_Shutoko_4"
+},
+"T8E3": {
+"city": "Mount Haruna",
+"icon": "mount_haruna",
+"kind": "Checkpoint",
+"route": "JPN_MHaruna_1"
+},
+"T8E4": {
+"city": "SanFran Russian Hill",
+"icon": "russian_hill",
+"kind": "Destruction",
+"route": "USA_SanFran_RussianHill_1"
+},
+"T8E5": {
+"city": "SanFran Sausalito",
+"icon": "san_francisco",
+"kind": "Race",
+"route": "USA_SanFran_Sausalito_1"
+},
+"T8E6": {
+"city": "Tokyo Shutoko",
+"icon": "japan_shutoko",
+"kind": "One-on-One",
+"route": "JPN_Tokyo_Shutoko_2"
+},
+"T9E0": {
+"city": "LA Downtown",
+"icon": "la_downtown",
+"kind": "Race",
+"route": "USA_LA_Downtown_1"
+},
+"T9E1": {
+"city": "SanFran Sausalito",
+"icon": "san_francisco",
+"kind": "Race",
+"route": "USA_SanFran_Sausalito_2"
+},
+"T9E2": {
+"city": "Hackney",
+"icon": "hackney",
+"kind": "Race",
+"route": "UK_London_Hackney_4"
+},
+"T9E3": {
+"city": "Mount Haruna",
+"icon": "mount_haruna",
+"kind": "Race",
+"route": "JPN_MHaruna_1"
+},
+"T9E4": {
+"city": "NY Dumbo",
+"icon": "dumbo",
+"kind": "Race",
+"route": "USA_NY_Dumbo_3"
+},
+"T9E5": {
+"city": "Brighton",
+"icon": "brighton",
+"kind": "Race",
+"route": "UK_Brighton_1"
+},
+"T9E6": {
+"city": "Hollywood Hills",
+"icon": "la_observatory",
+"kind": "One-on-One",
+"route": "USA_LA_Observatory_1"
+}
+}

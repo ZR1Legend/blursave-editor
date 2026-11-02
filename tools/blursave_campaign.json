@@ -1,0 +1,560 @@
+[
+{
+"tier": 1,
+"id": 3363276229,
+"lights_needed_to_unlock": 0,
+"boss_id": 2510124959,
+"boss_demands": [
+"Tier_Use_Powerups",
+"Tier_Earn_Fans",
+"Tier_Finish_In_Different_Car",
+"Tier_Finish_Events"
+],
+"boss_demand_targets": [
+80,
+7000,
+4,
+5
+],
+"events": [
+{
+"id": 4013244786,
+"name": "T1E0",
+"type": "RaceEvent",
+"fan_par": 900
+},
+{
+"id": 512209479,
+"name": "T1E1",
+"type": "RaceEvent",
+"fan_par": 1200
+},
+{
+"id": 2858894840,
+"name": "T1E2",
+"type": "DestructionEvent",
+"fan_par": 1200
+},
+{
+"id": 1112853954,
+"name": "T1E3",
+"type": "RaceEvent",
+"fan_par": 1300
+},
+{
+"id": 1157215251,
+"name": "T1E4",
+"type": "RaceEvent",
+"fan_par": 1300
+},
+{
+"id": 2992891320,
+"name": "T1E5",
+"type": "DestructionEvent",
+"fan_par": 1200
+},
+{
+"id": 1293373861,
+"name": "T1E6",
+"type": "BossEvent",
+"fan_par": 0
+}
+]
+},
+{
+"tier": 2,
+"id": 1058515315,
+"lights_needed_to_unlock": 25,
+"boss_id": 972907186,
+"boss_demands": [
+"Tier_Shield_Powerups",
+"Tier_Evade_Full_Shocks",
+"Tier_Collect_Stopwatches",
+"Event_Time_Remaining"
+],
+"boss_demand_targets": [
+3,
+3,
+40,
+14
+],
+"events": [
+{
+"id": 2661496749,
+"name": "T2E0",
+"type": "CheckpointEvent",
+"fan_par": 2000
+},
+{
+"id": 2580991824,
+"name": "T2E1",
+"type": "RaceEvent",
+"fan_par": 1600
+},
+{
+"id": 190672050,
+"name": "T2E2",
+"type": "RaceEvent",
+"fan_par": 900
+},
+{
+"id": 3311128217,
+"name": "T2E3",
+"type": "RaceEvent",
+"fan_par": 1400
+},
+{
+"id": 605582102,
+"name": "T2E4",
+"type": "CheckpointEvent",
+"fan_par": 1700
+},
+{
+"id": 2019696471,
+"name": "T2E5",
+"type": "RaceEvent",
+"fan_par": 1200
+},
+{
+"id": 214097280,
+"name": "T2E6",
+"type": "BossEvent",
+"fan_par": 0
+}
+]
+},
+{
+"tier": 3,
+"id": 1216665573,
+"lights_needed_to_unlock": 50,
+"boss_id": 360007595,
+"boss_demands": [
+"Tier_Complete_FanDemands",
+"Tier_Complete_FanRuns",
+"Tier_Complete_FanPars",
+"Event_Get_5X_Combo"
+],
+"boss_demand_targets": [
+5,
+2,
+4,
+1
+],
+"events": [
+{
+"id": 1862348898,
+"name": "T3E0",
+"type": "RaceEvent",
+"fan_par": 1800
+},
+{
+"id": 2917357566,
+"name": "T3E1",
+"type": "DestructionEvent",
+"fan_par": 1400
+},
+{
+"id": 4178551660,
+"name": "T3E2",
+"type": "RaceEvent",
+"fan_par": 1600
+},
+{
+"id": 836935940,
+"name": "T3E3",
+"type": "CheckpointEvent",
+"fan_par": 1900
+},
+{
+"id": 1201182545,
+"name": "T3E4",
+"type": "RaceEvent",
+"fan_par": 1300
+},
+{
+"id": 3450221913,
+"name": "T3E5",
+"type": "CheckpointEvent",
+"fan_par": 1900
+},
+{
+"id": 3208685749,
+"name": "T3E6",
+"type": "BossEvent",
+"fan_par": 0
+}
+]
+},
+{
+"tier": 4,
+"id": 4289400528,
+"lights_needed_to_unlock": 75,
+"boss_id": 4142319456,
+"boss_demands": [
+"Tier_Ram_Into_Sea",
+"Tier_Wreck",
+"Tier_Barge_Hits",
+"Event_Get_All_Lights"
+],
+"boss_demand_targets": [
+1,
+100,
+5,
+6
+],
+"events": [
+{
+"id": 3041724097,
+"name": "T4E0",
+"type": "DestructionEvent",
+"fan_par": 2200
+},
+{
+"id": 2143190529,
+"name": "T4E1",
+"type": "DestructionEvent",
+"fan_par": 1900
+},
+{
+"id": 2486242025,
+"name": "T4E2",
+"type": "RaceEvent",
+"fan_par": 1800
+},
+{
+"id": 3440879277,
+"name": "T4E3",
+"type": "DestructionEvent",
+"fan_par": 2000
+},
+{
+"id": 577017198,
+"name": "T4E4",
+"type": "RaceEvent",
+"fan_par": 2000
+},
+{
+"id": 3800138241,
+"name": "T4E5",
+"type": "DestructionEvent",
+"fan_par": 1700
+},
+{
+"id": 3442782396,
+"name": "T4E6",
+"type": "BossEvent",
+"fan_par": 0
+}
+]
+},
+{
+"tier": 5,
+"id": 4289933756,
+"lights_needed_to_unlock": 110,
+"boss_id": 3932063163,
+"boss_demands": [
+"Tier_Shunt_Hits",
+"Tier_Multiple_Barge_Hits",
+"Tier_Shock_Opponents",
+"Event_Complete_FanRun"
+],
+"boss_demand_targets": [
+5,
+5,
+10,
+1
+],
+"events": [
+{
+"id": 1220247465,
+"name": "T5E0",
+"type": "RaceEvent",
+"fan_par": 1600
+},
+{
+"id": 3550638365,
+"name": "T5E1",
+"type": "DestructionEvent",
+"fan_par": 2000
+},
+{
+"id": 3494631990,
+"name": "T5E2",
+"type": "RaceEvent",
+"fan_par": 1500
+},
+{
+"id": 4206533684,
+"name": "T5E3",
+"type": "CheckpointEvent",
+"fan_par": 1800
+},
+{
+"id": 1091644210,
+"name": "T5E4",
+"type": "DestructionEvent",
+"fan_par": 2100
+},
+{
+"id": 3548375670,
+"name": "T5E5",
+"type": "RaceEvent",
+"fan_par": 2600
+},
+{
+"id": 1594433094,
+"name": "T5E6",
+"type": "BossEvent",
+"fan_par": 0
+}
+]
+},
+{
+"tier": 6,
+"id": 3176468617,
+"lights_needed_to_unlock": 140,
+"boss_id": 693863365,
+"boss_demands": [
+"Tier_Drift",
+"Tier_Use_Weapon_Defence",
+"Tier_Clean_Triple_Nitros",
+"Tier_Get_Lights"
+],
+"boss_demand_targets": [
+1500,
+4,
+4,
+25
+],
+"events": [
+{
+"id": 3439601430,
+"name": "T6E0",
+"type": "CheckpointEvent",
+"fan_par": 1000
+},
+{
+"id": 1231622672,
+"name": "T6E1",
+"type": "RaceEvent",
+"fan_par": 2200
+},
+{
+"id": 2905060339,
+"name": "T6E2",
+"type": "CheckpointEvent",
+"fan_par": 1600
+},
+{
+"id": 1712865901,
+"name": "T6E3",
+"type": "RaceEvent",
+"fan_par": 1400
+},
+{
+"id": 379691714,
+"name": "T6E4",
+"type": "CheckpointEvent",
+"fan_par": 2100
+},
+{
+"id": 1143488345,
+"name": "T6E5",
+"type": "RaceEvent",
+"fan_par": 1500
+},
+{
+"id": 2796329154,
+"name": "T6E6",
+"type": "BossEvent",
+"fan_par": 0
+}
+]
+},
+{
+"tier": 7,
+"id": 1460070473,
+"lights_needed_to_unlock": 185,
+"boss_id": 2150387645,
+"boss_demands": [
+"Tier_Forward_Mine_Hits",
+"Tier_Nitro_Ram",
+"Tier_Destruction_Bonus_Hits",
+"Event_Wreck_And_Win"
+],
+"boss_demand_targets": [
+5,
+5,
+10,
+1
+],
+"events": [
+{
+"id": 2600100703,
+"name": "T7E0",
+"type": "RaceEvent",
+"fan_par": 1700
+},
+{
+"id": 1988468304,
+"name": "T7E1",
+"type": "DestructionEvent",
+"fan_par": 2500
+},
+{
+"id": 4265847980,
+"name": "T7E2",
+"type": "CheckpointEvent",
+"fan_par": 1100
+},
+{
+"id": 1967077976,
+"name": "T7E3",
+"type": "RaceEvent",
+"fan_par": 1500
+},
+{
+"id": 3086951776,
+"name": "T7E4",
+"type": "DestructionEvent",
+"fan_par": 2400
+},
+{
+"id": 3995716173,
+"name": "T7E5",
+"type": "RaceEvent",
+"fan_par": 2100
+},
+{
+"id": 3995497298,
+"name": "T7E6",
+"type": "BossEvent",
+"fan_par": 0
+}
+]
+},
+{
+"tier": 8,
+"id": 2723832783,
+"lights_needed_to_unlock": 215,
+"boss_id": 1040817986,
+"boss_demands": [
+"Tier_Shield_Mines",
+"Tier_3_Bolt_Hits",
+"Event_Finish_Without_SorR",
+"Event_Finish_In_Nats_BMW"
+],
+"boss_demand_targets": [
+3,
+8,
+1,
+1
+],
+"events": [
+{
+"id": 151751614,
+"name": "T8E0",
+"type": "RaceEvent",
+"fan_par": 1600
+},
+{
+"id": 473448178,
+"name": "T8E1",
+"type": "DestructionEvent",
+"fan_par": 1700
+},
+{
+"id": 131464981,
+"name": "T8E2",
+"type": "RaceEvent",
+"fan_par": 1900
+},
+{
+"id": 3966824076,
+"name": "T8E3",
+"type": "CheckpointEvent",
+"fan_par": 2300
+},
+{
+"id": 649427804,
+"name": "T8E4",
+"type": "DestructionEvent",
+"fan_par": 1400
+},
+{
+"id": 4012575008,
+"name": "T8E5",
+"type": "RaceEvent",
+"fan_par": 2000
+},
+{
+"id": 1537191389,
+"name": "T8E6",
+"type": "BossEvent",
+"fan_par": 0
+}
+]
+},
+{
+"tier": 9,
+"id": 4034888033,
+"lights_needed_to_unlock": 280,
+"boss_id": 377241628,
+"boss_demands": [
+"Tier_Reach_Speed",
+"Tier_Reverse_Bolt_Hits",
+"Tier_Mine_Hits",
+"Tier_Win_All_Events"
+],
+"boss_demand_targets": [
+1,
+15,
+20,
+6
+],
+"events": [
+{
+"id": 1130710145,
+"name": "T9E0",
+"type": "RaceEvent",
+"fan_par": 2000
+},
+{
+"id": 592897501,
+"name": "T9E1",
+"type": "RaceEvent",
+"fan_par": 1600
+},
+{
+"id": 2671703498,
+"name": "T9E2",
+"type": "RaceEvent",
+"fan_par": 1500
+},
+{
+"id": 1860466204,
+"name": "T9E3",
+"type": "RaceEvent",
+"fan_par": 1400
+},
+{
+"id": 2337922895,
+"name": "T9E4",
+"type": "RaceEvent",
+"fan_par": 1800
+},
+{
+"id": 380962040,
+"name": "T9E5",
+"type": "RaceEvent",
+"fan_par": 2100
+},
+{
+"id": 1038247981,
+"name": "T9E6",
+"type": "BossEvent",
+"fan_par": 0
+}
+]
+}
+]

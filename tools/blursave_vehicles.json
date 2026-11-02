@@ -1,0 +1,326 @@
+{
+"00524880": {
+"class": "A",
+"name": "Opel_AstraExtreme_Stock"
+},
+"05b0a652": {
+"class": "A",
+"name": "Nissan_SkylineR34ZTune_Stock_Ayumi"
+},
+"0946078a": {
+"class": "A",
+"name": "Corvette_C3_Race"
+},
+"0bd81dc5": {
+"class": "D",
+"name": "Dodge_Challenger_Stock"
+},
+"0d2d396a": {
+"class": "D",
+"name": "Renault_MeganeSportR26_Stock"
+},
+"124ce847": {
+"class": "B",
+"name": "Corvette_ZR1_Stock"
+},
+"13bfd6e5": {
+"class": "D",
+"name": "Ford_FocusRS_Stock"
+},
+"141824e5": {
+"class": "A",
+"name": "Dodge_ViperGTSR_Stock"
+},
+"15756f1e": {
+"class": "B",
+"name": "Bowler_Nemesis_Legend_VII"
+},
+"21257baf": {
+"class": "C",
+"name": "Hummer_H2_Rat"
+},
+"2135c076": {
+"class": "B",
+"name": "Corvette_ZR1_Stock_Talon"
+},
+"24ac2545": {
+"class": "B",
+"name": "Chevrolet_SoCalHHR_Stock"
+},
+"2a463054": {
+"class": "C",
+"name": "Ford_F150_OffRoad"
+},
+"2cfbe9c6": {
+"class": "B",
+"name": "Volkswagen_Scirocco_24"
+},
+"304633c9": {
+"class": "A",
+"name": "Corvette_C3_Drag"
+},
+"331bdeaa": {
+"class": "B",
+"name": "Dodge_ViperACR_Stock"
+},
+"36d0bce5": {
+"class": "A",
+"name": "Dodge_Challenger_Race"
+},
+"4193f745": {
+"class": "C",
+"name": "BMW_M3E92_Tuner"
+},
+"41c59e03": {
+"class": "C",
+"name": "LandRover_LRX_Stock"
+},
+"427e762f": {
+"class": "C",
+"name": "Audi_TT_Stock"
+},
+"43227761": {
+"class": "C",
+"name": "Toyota_Supra_Smooth"
+},
+"4388d527": {
+"class": "A",
+"name": "Dodge_ViperGTSR_Stock_Carver"
+},
+"464b461c": {
+"class": "B",
+"name": "BMW_M3E92_Legend_IX"
+},
+"497f494d": {
+"class": "D",
+"name": "Foose_Stallion_Stock"
+},
+"4a84d6d4": {
+"class": "D",
+"name": "Nissan_350ZNismo_Stock"
+},
+"4b72e0bf": {
+"class": "D",
+"name": "ACSchnitzer_ACS1Coupe_Stock"
+},
+"57d628ec": {
+"class": "B",
+"name": "BMW_M3E92_Drift"
+},
+"5a631af7": {
+"class": "D",
+"name": "Renault_MeganeSportR26_Stock_Shannon"
+},
+"5ccfdfc0": {
+"class": "C",
+"name": "Nissan_Navara_Rat"
+},
+"5e21f39f": {
+"class": "A",
+"name": "Ford_MustangGTR_Legend_X"
+},
+"685ab3bc": {
+"class": "D",
+"name": "Toyota_SupraTRD_Stock"
+},
+"6a3e40ba": {
+"class": "D",
+"name": "Chevrolet_Camaro_Rat"
+},
+"6cd75e06": {
+"class": "D",
+"name": "ACSchnitzer_ACS1Coupe_Legend_I"
+},
+"7015b16f": {
+"class": "A",
+"name": "Vauxhall_MonaroVXR_Legend_IV"
+},
+"71a2099a": {
+"class": "C",
+"name": "Chevrolet_CamaroSS_Stock"
+},
+"7a4d78e0": {
+"class": "B",
+"name": "Dodge_ViperACR_Legend_III"
+},
+"7dd09d43": {
+"class": "A",
+"name": "Ford_FR100_Stock"
+},
+"7e861775": {
+"class": "C",
+"name": "Hummer_H2_OffRoad"
+},
+"7fe6a554": {
+"class": "B",
+"name": "Ford_GT_Stock"
+},
+"836a03e9": {
+"class": "B",
+"name": "Ford_FocusRS_Race"
+},
+"895082bf": {
+"class": "A",
+"name": "Audi_R8V10_Stock"
+},
+"90b3cc44": {
+"class": "B",
+"name": "BMW_X548MSport_Stock"
+},
+"9132491a": {
+"class": "C",
+"name": "Foose_69_Stock"
+},
+"9432aec5": {
+"class": "D",
+"name": "LandRover_DefenderSVX_Stock"
+},
+"949fe8bd": {
+"class": "A",
+"name": "Koenigsegg_CCXR_Stock"
+},
+"988554f7": {
+"class": "D",
+"name": "Nissan_Navara_OffRoad"
+},
+"9f01d57d": {
+"class": "B",
+"name": "Volkswagen_GolfW12650_Stock"
+},
+"a1898922": {
+"class": "D",
+"name": "BMW_1SeriesTii_Stock"
+},
+"a81889e8": {
+"class": "A",
+"name": "Hennessey_ViperVenom1000Coupe_Stock"
+},
+"aa0fc396": {
+"class": "A",
+"name": "Nissan_SkylineR34ZTune_Stock"
+},
+"acca6d4a": {
+"class": "B",
+"name": "BMW_1SeriesTii_Race"
+},
+"ad8f9726": {
+"class": "C",
+"name": "Audi_TT_Legend_VI"
+},
+"b07884ef": {
+"class": "B",
+"name": "Ford_F100_OffRoad"
+},
+"b32bb9f1": {
+"class": "B",
+"name": "Bowler_Nemesis_Stock"
+},
+"b6f2bf35": {
+"class": "B",
+"name": "Corvette_C3_Rat"
+},
+"b7aeec83": {
+"class": "D",
+"name": "Foose_Stallion_Stock_Khan"
+},
+"b96acc53": {
+"class": "B",
+"name": "Dodge_Challenger_Tuner"
+},
+"ba0eb318": {
+"class": "C",
+"name": "Volkswagen_Beetle_OffRoad"
+},
+"bc354b44": {
+"class": "C",
+"name": "Chevrolet_CamaroSS_Stock_Rymer"
+},
+"c5269e58": {
+"class": "B",
+"name": "BMW_1SeriesTii_Race"
+},
+"c70bca8b": {
+"class": "A",
+"name": "Vauxhall_MonaroVXR_Drift"
+},
+"c9371379": {
+"class": "C",
+"name": "Chevrolet_Camaro_Legend_II"
+},
+"cbb6618b": {
+"class": "D",
+"name": "Dodge_Challenger_Legend_V"
+},
+"cf627f10": {
+"class": "C",
+"name": "Ford_F100_Rat"
+},
+"cfbebd08": {
+"class": "D",
+"name": "RatRod_NA_Stock"
+},
+"d2e97fd9": {
+"class": "A",
+"name": "Opel_AstraExtreme_Stock_Shannon"
+},
+"d5b0b533": {
+"class": "B",
+"name": "Lotus_ExigeCup260_Stock"
+},
+"da1765e8": {
+"class": "A",
+"name": "Opel_Astra_Extreme_Legend_VIII"
+},
+"dd7476d7": {
+"class": "D",
+"name": "Chevrolet_Camaro_Stock"
+},
+"de430d6a": {
+"class": "A",
+"name": "Chevrolet_CamaroSS_Drag"
+},
+"e51096ff": {
+"class": "A",
+"name": "Ford_MustangGTR_Stock"
+},
+"ea865f95": {
+"class": "C",
+"name": "Shelby_MustangGT500_Stock"
+},
+"ee65db30": {
+"class": "A",
+"name": "Nissan_SkylineR34ZTune_Stock_Harumi"
+},
+"f00ebb1e": {
+"class": "C",
+"name": "Ford_Bronco_OffRoad"
+},
+"f38af1ca": {
+"class": "A",
+"name": "Renault_MeganeTrophy_Stock"
+},
+"f6512c4c": {
+"class": "B",
+"name": "BMW_1SeriesTii_Race_Natalya"
+},
+"f6ab57f1": {
+"class": "D",
+"name": "Volkswagen_Beetle_Rat"
+},
+"f9403e42": {
+"class": "C",
+"name": "Hummer_H2_OffRoad_Drayke"
+},
+"fc1adb45": {
+"class": "D",
+"name": "Audi_S3_Stock"
+},
+"fda48118": {
+"class": "A",
+"name": "Ford_Supervan_Stock"
+},
+"fffe3216": {
+"class": "C",
+"name": "Nissan_350Z_Drift"
+}
+}

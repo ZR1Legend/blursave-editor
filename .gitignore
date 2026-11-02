@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+build_editor/
+release/*.exe
+release/*.zip
+
+# never publish
+Game/
+RPCS3/
+ps3_saves/
+xbox360_save/
+full_save/
+test_saves/
+backup/
+ps3_work/
+tools/blursave_names.json
+tools/BLURSAVE_FORMAT.md
