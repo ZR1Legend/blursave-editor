@@ -6,7 +6,7 @@ rem blursave_icons.zip (car silhouettes, manufacturer logos, Blur logo, mod symb
 setlocal
 cd /d "%~dp0.."
 set T=%CD%\tools
-py -m PyInstaller --noconfirm --clean --onefile --windowed --exclude-module numpy --exclude-module PIL --name BlurSaveEditor ^
+py -m PyInstaller --noconfirm --clean --onefile --windowed --exclude-module numpy --exclude-module PIL --name BlurSaveEditor --icon "%T%\blursave_editor.ico" ^
   --paths "%T%" --add-data "%T%\blursave_vehicles.json;." ^
-  --add-data "%T%\blursave_paints.json;." --add-data "%T%\blursave_icons.zip;." --add-data "%T%\blursave_events.json;." --add-data "%T%\blursave_stats.json;." --add-data "%T%\blursave_new.bin;." --add-data "%T%\blursave_ranks.json;." --add-data "%T%\blursave_campaign.json;." --add-data "%T%\LICENSES.txt;." ^
+  --add-data "%T%\blursave_paints.json;." --add-data "%T%\blursave_icons.zip;." --add-data "%T%\blursave_events.json;." --add-data "%T%\blursave_stats.json;." --add-data "%T%\blursave_new.bin;." --add-data "%T%\blursave_ranks.json;." --add-data "%T%\blursave_campaign.json;." --add-data "%T%\LICENSES.txt;." --add-data "%T%\blursave_editor.ico;." ^
   --distpath release --workpath build_editor\work --specpath build_editor "%T%\blursave_editor.py"

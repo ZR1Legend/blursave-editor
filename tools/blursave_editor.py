@@ -94,6 +94,10 @@ class Editor(tk.Tk):
         super().__init__()
         theme.apply(self)
         self.title("blursave editor")
+        try:
+            self.iconbitmap(os.path.join(HERE, "blursave_editor.ico"))          # window and taskbar icon (the exe icon is set by the build)
+        except tk.TclError:
+            pass
         w, h = min(1280, self.winfo_screenwidth() - 40), min(860, self.winfo_screenheight() - 90)
         self.geometry("%dx%d+%d+%d" % (w, h, (self.winfo_screenwidth() - w) // 2, max(0, (self.winfo_screenheight() - h) // 3)))
         self.minsize(min(1100, w), min(700, h))
